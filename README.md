@@ -1,7 +1,7 @@
 ### Xand Pereira
 <div>
   <a href="https://github.com/XandP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XandP&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XandP&show_icons=true&theme=chartreuse-dark&count_private=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandP&layout=compact&langs_count=7&theme=chartreuse-dark&count_private=true"/>
 </div>
 
