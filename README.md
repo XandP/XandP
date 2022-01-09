@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/XandP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XandP&count_private=true&show_icons=true&theme=omni&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandP&layout=compact&langs_count=7&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandP&layout=compact&langs_count=7&theme=omni&count_private=true&include_all_commits=true"/>
 </div>
 
  <!-- skills -->
