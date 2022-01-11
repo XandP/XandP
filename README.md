@@ -1,4 +1,4 @@
-### Xand Pereira
+## Xand Pereira
 
 Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">![REDEOK](https://avatars.githubusercontent.com/u/65910120?s=20&v=4)</a>
 
