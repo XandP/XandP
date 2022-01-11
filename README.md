@@ -1,4 +1,7 @@
 ### Xand Pereira
+
+Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">![REDEOK](https://avatars.githubusercontent.com/u/65910120?s=20&v=4)</a>
+
 <div>
   <a href="https://github.com/XandP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XandP&count_private=true&show_icons=true&theme=omni&include_all_commits=true"/>
