@@ -1,6 +1,6 @@
 ## Xand Pereira
 
-Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">![REDEOK](https://avatars.githubusercontent.com/u/65910120?s=20&v=4)</a>
+Currently working at &nbsp;<a href="https://github.com/Direct-Shopping-Giftty" title="@Giftty">![GIFTTY](https://avatars.githubusercontent.com/u/101982493?s=200&v=4)</a>
 
 <div>
   <a href="https://github.com/XandP">
@@ -19,6 +19,8 @@ Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">!
   <img align="center" alt="XandP-ORACLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
 </div>
 <!-- skills -->
+ 
+ 
 <br>
 <div>
 <a href="https://www.linkedin.com/in/alexandre-pereira-4964ab170/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
