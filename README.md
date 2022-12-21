@@ -1,6 +1,6 @@
 ## Xand Pereira
 
-Currently working at &nbsp;<a href="https://github.com/Direct-Shopping-Giftty" title="@Giftty">![GIFTTY](https://avatars.githubusercontent.com/u/101982493?s=20&v=4)</a>
+Currently working at &nbsp;<a href="https://github.com/Direct-Shopping-Giftty" title="@Giftty"><img src="https://avatars.githubusercontent.com/u/101982493?s=200&v=4" width="48"></a>
 
 <div>
   <a href="https://github.com/XandP">
