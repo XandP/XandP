@@ -1,6 +1,6 @@
 ## Xand Pereira
 
-Currently working at &nbsp;<a href="https://github.com/Direct-Shopping-Giftty" title="@Giftty">![GIFTTY]<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/101982493?s=200&amp;v=4" width="48" height="48" alt="@Direct-Shopping-Giftty"></a>
+Currently working at &nbsp;<a href="https://github.com/Direct-Shopping-Giftty" title="@Giftty">![GIFTTY](<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/101982493?s=200&amp;v=4" width="48" height="48" alt="@Direct-Shopping-Giftty">)</a>
 
 <div>
   <a href="https://github.com/XandP">
