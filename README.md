@@ -1,6 +1,6 @@
 ## Xand Pereira
 
-Atualmente trabalhando como Desenvolvedor Pleno na DirectShopping &nbsp;<a href="https://github.com/Direct-Shopping-Giftty" title="@Giftty"><img src="https://avatars.githubusercontent.com/u/101982493?s=200&v=4" width="48"></a>
+Atualmente trabalhando como Desenvolvedor Pleno na Giftty/DirectShopping &nbsp;<a href="https://github.com/Direct-Shopping-Giftty" title="@Giftty"><img src="https://avatars.githubusercontent.com/u/101982493?s=200&v=4" width="48"></a>
 
 <div>
   <a href="https://github.com/XandP">
